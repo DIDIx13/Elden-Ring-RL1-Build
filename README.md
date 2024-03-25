@@ -64,4 +64,5 @@ Buy :
 ## End game
 
 Weapon : Scavenger's Curved Sword || Serpent-Hunter
+
 Speels : Flame, Grant Me Strength & AoW Golden Vow & Bloodflame blade
